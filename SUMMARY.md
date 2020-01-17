@@ -9,8 +9,10 @@
 * [捕获移动终端流量](./CONFIGURE_FIDDLER/捕获移动终端流量.md)
 
 ## OBSERVE TRAFFIC
+* [捕获流量功能](./OBSERVE_TRAFFIC/捕获流量功能.md)
 
 ## MODIFY TRAFFIC
+* [修改流量功能](./MODIFY_TRAFFIC/修改流量功能.md)
 
 ## GENERATEG TRAFFIC
 
