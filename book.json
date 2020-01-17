@@ -1,0 +1,41 @@
+{
+    "title": "fiddler tutorial",
+    "description": "Fiddler 教程",
+    "author": "huyp",
+    "language": "zh-hans",
+    "plugins": [
+        "github",
+        "-lunr", "-search", "search-pro",
+        "links",
+        "anchors",
+        "splitter",
+        "tbfed-pagefooter",
+        "anchor-navigation-ex",
+        "expandable-chapters-small"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/huypTina/blog.git"
+        },
+        "links": {
+            "gitbook": false,
+            "sharing": {
+                "google": false,
+                "facebook": false,
+                "twitter": false,
+                "all": false
+            }
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &#169; Tina.hu",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": false,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        }
+    }
+}
